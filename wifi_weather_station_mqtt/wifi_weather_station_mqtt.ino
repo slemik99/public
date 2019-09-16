@@ -141,8 +141,10 @@ void setup() {
   server.on("/wifi",[](){
     server.send(200,"text/plain", "Starting WiFi manager portal...");
     delay(5000);
-    WiFi.SSID() = "0_0";
-    delay(5000);
+    WiFi.begin("0000", "0000");
+    delay(3000);
+    WiFi.printDiag(Serial);
+    delay(3000);
     ESP.restart();
   });
 
