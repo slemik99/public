@@ -1,0 +1,18 @@
+The Arduino selection board type is Arduino UNO
+
+The Bluetooth on the control panel is 4.0BLE, and the master mode will automatically connect the BLE bdevice.
+
+Bluetooth 2.0 or need pin code need to modify the code. After connecting a device, reconnect the other device to press the DEL button and restart
+
+STA indicator status
+When the host does not record the bdevice address, it is on for 100ms every second.
+When the host records the bdevice address, it lights up for 900ms every second.
+The bdevice is on for 1 second every 2 seconds.
+
+After downloading the program, wear a pair of gloves and put the palm of your hand down. Turn on the power and wait until the 5 LED lights in the middle flash several times before opening the palm of your hand.
+Wait for a while, and the initialization is completed when the middle 5 LEDs flash for a few more flashes.
+After the initialization is completed, the work mode can be switched by pressing key3. All the led lights are not lit to control Multi-footed robot, one light controls robot Hand, two lights control robot car, and three lights control robot arm.
+
+
+
+

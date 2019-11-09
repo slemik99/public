@@ -1,0 +1,6 @@
+Arduino UNO is the latest version of the Arduino USB interface series and serves as a reference standard template for the Arduino platform.
+UNO's processor core is the ATmega328, which also has 14 digital input/output ports (of which 6 can be used as PWM outputs), 6 analog inputs, a 16MHz crystal oscillator, a USB port, a power socket, an ICSP header and A reset button.
+
+32KB storage space, where the bootloader occupies 0.5kb
+2KB SRAM,Run memory
+1KB EEPROM

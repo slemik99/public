@@ -1,0 +1,2 @@
+1. Download an empty program for Arduino UNO (to prevent arduino from affecting the servo controller)
+2. Make sure Bluetooth connection on the servo controller
