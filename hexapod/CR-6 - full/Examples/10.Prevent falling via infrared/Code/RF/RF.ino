@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 
 #define RFR1 12   /*front right infrared sensor*/
-#define RFL1 6   /*front left infrared sensor*/
+#define RFL1 8   /*front left infrared sensor*/
 #define RFR2 2   /*back right infrared sensor*/
 #define RFL2 4   /*back left infrared sensor*/
 
